@@ -1,3 +1,12 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/SpoonX/aurelia-notification/compare/1.0.0...1.0.1) (2018-08-30)
+
+
+### Bug Fixes
+
+**notification:** notification constructor preserves explicitly specified container element.
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/SpoonX/aurelia-notification/compare/1.0.0-rc5...v1.0.0) (2016-10-04)
 
